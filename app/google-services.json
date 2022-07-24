@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379146926434",
+    "project_id": "fir-storagetest-13fc8",
+    "storage_bucket": "fir-storagetest-13fc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379146926434:android:6e3c314c81c782d0d2943b",
+        "android_client_info": {
+          "package_name": "com.example.firebasestoragetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379146926434-t76uilbdkadva2mekplj7ramemo7no0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEruxTxEY6pSbTw1sGiUV_bLbdtZmVIEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379146926434-t76uilbdkadva2mekplj7ramemo7no0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
